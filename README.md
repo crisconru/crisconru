@@ -16,32 +16,23 @@ I also have a **strong product design vision**, which allows me to ensure that t
 
 Here are some of the tools I work with:
 
-- **TypeScript / JavaScript**  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) / ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white)  
   
-- **Python**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   
-- **Linux**  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
-- **Docker**  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- **Node-RED**  
-  ![Node-RED](https://img.shields.io/badge/-Node--RED-8CC84B?style=flat&logo=node-red&logoColor=white)
-  
-- **Raspberry Pi**  
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+- ![Node-RED](https://img.shields.io/badge/-Node--RED-AA4444?style=flat&logo=node-red&logoColor=white)
 
-- **Arduino**  
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
-- **ESPHome**  
-  ![ESPHome](https://img.shields.io/badge/-ESPHome-41BDF9?style=flat&logo=esphome&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-- **ESP32**  
-  ![ESP32](https://img.shields.io/badge/-ESP32-3C8EFC?style=flat&logo=espressif&logoColor=white)
+- ![ESPHome](https://img.shields.io/badge/-ESPHome-41BDF9?style=flat&logo=esphome&logoColor=white)
+
+- ![ESP32](https://img.shields.io/badge/-ESP32-3C8EFC?style=flat&logo=espressif&logoColor=white)
 
 
 ## Got an interesting project? 💬
